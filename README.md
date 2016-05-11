@@ -14,7 +14,7 @@
 - [CSScomb](https://github.com/csscomb/sublime-csscomb) - CSS编码风格格式化工具。
 - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 代码提示。
 - [SublimePHPCompanion](https://github.com/erichard/SublimePHPCompanion) - PHP助手。
-##其他
+## 其他
 - [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - json格式化工具，快捷键：OSX: cmd+ctl+j, win: ctl+alt+j。
 - [ColorPicker](http://weslly.github.io/ColorPicker/) - 直接在sublime里调用调色板的工具。
 - [Git](https://github.com/kemayo/sublime-text-git) - 顾名思义。
